@@ -45,11 +45,14 @@
  
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishal44&layout=compact&theme=synthwave" />
 </a>
-
 <a href="https://github.com/Bishal44/github-readme-stats">
- 
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bishal44&repo=github-readme-stats&theme=radical" />
 </a>    
+<a href="https://github.com/Bishal44/Bishal44.github.io">
+ 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bishal44&repo=Bishal44.github.io&theme=radical" />
+</a> 
 
 
 [website]: http://upadhyayabishal.com.np/
