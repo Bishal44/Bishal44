@@ -43,7 +43,7 @@
 
 
 <a href="https://github.com/Bishal44/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bishal44&show_icons=true&include_all_commits=true&theme=Gradient" alt="bishal's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bishal44&show_icons=true&include_all_commits=true&theme=tokyonight" alt="bishal's github stats" />
 </a>
 <a href="https://github.com/Bishal44/github-readme-stats">
  
