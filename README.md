@@ -1,18 +1,16 @@
 ### Hi there, I'm Bishal - aka [TechiBishal][website] 👋
 
-[![Website](https://img.shields.io/website?label=Bishal.com&style=for-the-badge&url=https%3A%2F%2Fbishal.com)](http://upadhyayabishal.com.np/)
+[![Website](https://img.shields.io/website?label=Bishal.com&style=for-the-badge&url=https%3A%2F%2Fbishal.com)]()
 
 ## I'm a Friend, Buddy, Developer, and Learner!
 
 - 🔭 I’m currently working on a Python and some ai research [website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Ai researcher
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 - 💬 Ask me about anything [here](https://github.com/Bishal44/Bishal44/issues)
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
