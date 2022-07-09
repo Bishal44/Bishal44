@@ -5,7 +5,7 @@
 ## I'm a Friend, Buddy, Developer, and Learner!
 
 - 🔭 I’m currently working on a Python and some ai research [website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning master in Computer science in University of vienna.
 - 👯 I’m looking to collaborate with other Ai researcher
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
@@ -32,7 +32,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angularjs.png"></code>
+
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
  
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"></code>
@@ -60,5 +60,5 @@
 </a> 
 --->
 
-[website]: http://upadhyayabishal.com.np/
+[website]: 
 [linkedin]: https://www.linkedin.com/in/bishal-upadhyay-801799134/
