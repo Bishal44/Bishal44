@@ -16,7 +16,7 @@
 
 
 [![Linkedin: Bishal Upadhyaya](https://img.shields.io/badge/-Bishal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bishal-upadhyay-801799134/)](https://www.linkedin.com/in/bishal-upadhyay-801799134/)
-[![GitHub Bishal44](https://img.shields.io/github/followers/Bishal?label=follow&style=social)](https://github.com/Bishal44)
+[![GitHub Bishal44](https://img.shields.io/github/followers/Bishal44?label=follow&style=social)](https://github.com/Bishal44)
 
 
 
@@ -58,6 +58,5 @@
 --->
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
