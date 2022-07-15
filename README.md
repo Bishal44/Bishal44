@@ -14,12 +14,11 @@
 
 ### Connect with me:
 
-<img align="left" alt="bishal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="Bishal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="Bishal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="Bishal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
-<img align="left" alt="Bishal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<br />
+
+[![Linkedin: Bishal Upadhyaya](https://img.shields.io/badge/-Bishal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bishal-upadhyay-801799134/)](https://www.linkedin.com/in/bishal-upadhyay-801799134/)
+[![GitHub Bishal44](https://img.shields.io/github/followers/Bishal?label=follow&style=social)](https://github.com/Bishal44)
+
+
 
 **Languages and Tools:**  
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></code>
@@ -57,5 +56,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bishal44&repo=Bishal44.github.io&theme=radical" />
 </a> 
 --->
+
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
 
 [linkedin]: https://www.linkedin.com/in/bishal-upadhyay-801799134/
