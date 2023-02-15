@@ -5,9 +5,9 @@
 ## I'm a Friend, Buddy, Developer, and Learner!
 
 - 🔭 I’m currently working on a Python and some ai research [website]!
-- 🌱 I’m currently learning master in Computer science in University of vienna.
+- 🌱 I’m currently learning master in Computer science in Technische Universität Wien.
 - 👯 I’m looking to collaborate with other Ai researcher
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 - 💬 Ask me about anything [here](https://github.com/Bishal44/Bishal44/issues)
 
