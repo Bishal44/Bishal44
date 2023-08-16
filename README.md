@@ -41,25 +41,7 @@
 <a href="https://github.com/Bishal44/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bishal44&show_icons=true&include_all_commits=true&theme=tokyonight" alt="bishal's github stats" />
 </a>
-<a href="https://github.com/Bishal44/github-readme-stats">
- 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bishal44&layout&theme=synthwave" />
-</a>
-<!---
-<a href="https://github.com/Bishal44/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bishal44&repo=&theme=radical" />
-</a>   
---->
-<!---
-<a href="https://github.com/Bishal44/Bishal44.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bishal44&repo=Bishal44.github.io&theme=radical" />
-</a> 
---->
-<!---
-<a href="https://github.com/Bishal44/Bishal44.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bishal44&repo=Bishal44.github.io&theme=radical" />
-</a> 
---->
+
 
 
 
