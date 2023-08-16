@@ -1,6 +1,5 @@
-### Hi there, I'm Bishal - aka [TechiBishal][website] 👋
+### Hi there, I'm Bishal
 
-[![Website](https://img.shields.io/website?label=Bishal.com&style=for-the-badge&url=https%3A%2F%2Fbishal.com)]()
 
 ## I'm a Friend, Buddy, Developer, and Learner!
 
